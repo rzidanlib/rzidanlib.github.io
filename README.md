@@ -1,2 +1,2 @@
-# temanbelajarv1.github.io
+# Website Teman Belajar
 Landing pages Teman Belajar versi 1
